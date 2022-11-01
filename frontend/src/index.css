@@ -12,6 +12,20 @@ code {
     monospace;
 }
 
+header {
+  background-color: rgb(218, 41, 28);
+  color: #fff;
+  padding: 1rem;
+}
+
+header a {
+  color: #fff;
+}
+
+.text-reset {
+  text-decoration: none;
+}
+
 .products {
   display: flex;
   flex-wrap: wrap;
@@ -19,14 +33,15 @@ code {
 }
 
 .products .product {
-  border: 1px solid #ccc;
-  border-radius: 8px;
+  /* border: 1px solid #ccc;
+  border-radius: 8px; */
   margin: 1rem;
   padding: 1rem;
 }
 
 .products .product a {
-  color: #262422;
+  color: #1b1b1b;
+  font-weight: 500;
   text-decoration: none;
 }
 

@@ -39,6 +39,19 @@ const data = {
       description:
         "Created to catch the eye at rivals' grounds. This adidas Manchester United third jersey highlights electrifying away performances with bold colours and a dynamic, '90s-style graphic. Shared with the home and away kits, an embroidered shield badge takes pride of place on the chest. Behind the brilliance, moisture-absorbing AEROREADY keeps football fans comfortable. Made with 100% recycled materials, this product represents just one of our solutions to help end plastic waste.",
     },
+    {
+      name: 'Manchester United Home Shirt 2022-23 - Long Sleeve',
+      slug: 'manchester-united-home-shirt-2022-23-long-sleeve',
+      category: 'Football Kits',
+      image: '/images/manchester-united-home-shirt-2022-23-long-sleeve.webp',
+      price: 75.0,
+      countInStock: 1000,
+      brand: 'Adidas',
+      ratting: 5,
+      numReviews: 120,
+      description:
+        "Turned up or pressed down, the humble polo collar has played a starring role in many of Manchester United's biggest moments. Making a comeback on this adidas football jersey, it joins a shield-style badge and engineered pinstriped print to produce an eye-catching look. Long sleeves and moisture-absorbing AEROREADY keep you covered and comfortable.  Made with 100% recycled materials, this product represents just one of our solutions to help end plastic waste.",
+    },
   ],
 };
 export default data;
