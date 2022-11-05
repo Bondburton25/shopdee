@@ -1,7 +1,7 @@
 const data = {
   products: [
     {
-      name: 'Manchester United Home Shirt 2022-23',
+      name: 'From BE Manchester United Home Shirt 2022-23',
       slug: 'manchester-united-home-shirt-2022-23',
       category: 'Football Kits',
       image: '/images/manchester-united-home-shirt-2022-23.webp',
